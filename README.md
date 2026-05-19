@@ -46,7 +46,7 @@ Clone them inside the project directory:
 git clone https://github.com/aboul3la/Sublist3r.git
 
 git clone https://github.com/laramies/theHarvester.git
-
+#Create a shodan account and paste your API key in the code
 **##RUN**
 python3 uzumaki.py
 
