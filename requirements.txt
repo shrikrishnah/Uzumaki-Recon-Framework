@@ -1,0 +1,7 @@
+colorama
+httpx
+jinja2
+python-whois
+shodan
+dnspython
+weasyprint
