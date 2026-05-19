@@ -1,2 +1,5 @@
-# Uzumaki-Recon-Framework
-UZUMAKI- A recon tool  built for cybersecurity practitioners which is a framework consisting of many osint tools. 
+ # UZUMAKI
+
+Advanced Reconnaissance & OSINT Framework
+
+UZUMAKI is a lightweight cybersecurity reconnaissance framework designed for automated attack surface mapping, OSINT gathering, DNS intelligence, technology fingerprinting, and HTML/PDF reporting.
