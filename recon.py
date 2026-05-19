@@ -31,7 +31,7 @@ print(Fore.GREEN + """
 
 TARGET = input(Fore.CYAN + "Enter target domain: ").strip()
 
-SHODAN_KEY = "rOWURAoTheG1uhuhLnGyuJV3e1DslgHB"
+SHODAN_KEY = "ADD-YOUR-API-KEY"
 
 OUTPUT_DIR = os.path.expanduser(
     f"~/UZUMAKI/recon_{TARGET}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
